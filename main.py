@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Load the dataset
 # Replace 'path_to_dataset.csv' with the actual path to your downloaded dataset
-data = pd.read_csv('path_to_dataset.csv')
+data = pd.read_csv('The-Wine-Project\The-Wine-Project\WineDataset.csv')
 
 # Data exploration and preprocessing
 # Examine the structure and summary statistics of the dataset
